@@ -1,0 +1,21 @@
+.title {
+  color: blue;
+  font-size: 18px;
+}
+
+.quote {
+  color: black;
+  font-style: italic;
+}
+
+.hidden-text {
+  display: none;
+}
+
+.hidden-text:target {
+  display: block;
+}
+
+footer {
+  font-size: 12px;
+}
